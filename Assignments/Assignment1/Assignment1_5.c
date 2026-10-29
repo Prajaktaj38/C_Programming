@@ -4,7 +4,7 @@
 //  Function Name: Accept
 //  Description: Accept one number from user and check whether it is divisible by 5 or not
 //  input: int
-//  output: Bool
+//  output: void
 //  Author: Prajakta Jadhav
 //  Date: 20/10/2026
 //

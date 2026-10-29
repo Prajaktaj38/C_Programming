@@ -4,7 +4,7 @@
 //  Function Name: Display
 //  Description: Print Marvellous 5 times.
 //  input: int
-//  output: string
+//  output: void
 //  Author: Prajakta Jadhav
 //  Date: 20/10/2026
 //

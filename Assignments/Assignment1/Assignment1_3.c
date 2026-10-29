@@ -1,4 +1,4 @@
-//// Assignment 1.4: Write a program to print 5 to 1 numbers on screen.
+//// Assignment 1.3: Write a program to print 5 to 1 numbers on screen.
 ////////////////////////////////////////////////////////////////
 //
 //  Function Name: Check
@@ -20,11 +20,11 @@ void Display()
     {
         printf("%d\n",i);
         i--;
-    }
-    
+    }    
 }
+
 int main()
  {
     Display();
     return 0;
-}
+ } 
