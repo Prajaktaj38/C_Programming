@@ -1,3 +1,14 @@
+//// Assignment 1.2: Print 5 times "Marvellous on screen".
+////////////////////////////////////////////////////////////////
+//
+//  Function Name: Display
+//  Description: Print Marvellous 5 times.
+//  input: int
+//  output: string
+//  Author: Prajakta Jadhav
+//  Date: 20/10/2026
+//
+////////////////////////////////////////////////////////////////
 #include<stdio.h>
 
 void Display(int iNo)
