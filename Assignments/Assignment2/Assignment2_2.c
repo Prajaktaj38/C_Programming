@@ -1,10 +1,10 @@
 //// Assignment 2_1: Accept one number from user and print that number of * on screen.
 ////////////////////////////////////////////////////////////////
 //
-//  Function Name: Display
+//  Function Name: Display without Updator
 //  Description: Accept one number from user and print that number of * on screen.
 //  input: int
-//  output: Bool
+//  output: void
 //  Author: Prajakta Jadhav
 //  Date: 20/10/2026
 //
