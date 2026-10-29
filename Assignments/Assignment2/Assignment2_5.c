@@ -3,8 +3,8 @@
 //
 //  Function Name: Display
 //  Description: Accept two numbers from user and display the first number the second number of times.
-//  input: int, int
-//  output: void
+//  input: int
+//  output: bool
 //  Author: Prajakta Jadhav
 //  Date: 20/10/2026
 //

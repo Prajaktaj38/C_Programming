@@ -4,7 +4,7 @@
 //  Function Name: Display
 //  Description: Accept one number from user and print that number of * on screen.
 //  input: int
-//  output: Bool
+//  output: void
 //  Author: Prajakta Jadhav
 //  Date: 20/10/2026
 //
