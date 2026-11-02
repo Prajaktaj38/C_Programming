@@ -1,7 +1,7 @@
 //// Assignment 2_1: Accept one number from user and print that number of * on screen.
 ////////////////////////////////////////////////////////////////
 //
-//  Function Name: Display
+//  Function Name: Display Without Updator
 //  Description: Accept one number from user and print that number of * on screen.
 //  input: int
 //  output: void
@@ -14,12 +14,7 @@
 
 void Display(int iNo)
 {
-    int iCnt = 0;
-    //Write updator
-    if(iNo < 0)
-    {
-        iNo = -iNo;
-    }
+    int iCnt = 0; 
 
     while(iCnt < iNo)
     {
